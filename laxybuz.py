@@ -1,7 +1,7 @@
 import requests,os, pyfiglet, sys
 from bs4 import BeautifulSoup
 from colorama import Style, Fore, init
-### [PGX] - NINGUN SISTEMA ES SEGURO ### 
+### [PGX] - NINGUN SISTEMA ES SEGURO ###
 ### Laxybuz ###
 init(autoreset=True)
 r=pyfiglet.figlet_format("Laxybuz")
